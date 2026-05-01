@@ -15,10 +15,10 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_VERCEL_LINK_HERE)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZohaAshraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zoha-ashraf)
-[![Medium](https://img.shields.io/badge/Medium-Article-black?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/zohaashrafs-projects/wumpus-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZohaAshraf/wumpus_ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZohaAshraf-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohashraf/)
+[![Medium](https://img.shields.io/badge/Medium-Article-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@f243019/artificial-intelligence-fast-nuces-2025-i-taught-a-machine-to-be-afraid-of-the-dark-and-it-58e45901be7c)
 
 <br/>
 
@@ -45,7 +45,7 @@ This project was built as a university AI assignment and portfolio piece — dem
 
 ## Live Preview
 
-> 🔗 **[Try the live demo → YOUR_VERCEL_LINK_HERE](YOUR_VERCEL_LINK_HERE)**
+> 🔗 **[Try the live demo → YOUR_VERCEL_LINK_HERE](https://vercel.com/zohaashrafs-projects/wumpus-ai)**
 
 ---
 
@@ -247,9 +247,9 @@ npm run build
 **Zoha Ashraf**
 Student at FAST NUCES
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zoha-ashraf)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ZohaAshraf)
-[![Medium](https://img.shields.io/badge/Medium-Read-black?style=flat-square&logo=medium)](YOUR_MEDIUM_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zohashraf/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ZohaAshraf/wumpus_ai)
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=flat-square&logo=medium)](https://medium.com/@f243019/artificial-intelligence-fast-nuces-2025-i-taught-a-machine-to-be-afraid-of-the-dark-and-it-58e45901be7c)
 
 ---
 
